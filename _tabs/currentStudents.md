@@ -13,7 +13,7 @@ Current Student Directory
 
 <br>
 
-<!-- PERSON 1 -->
+<!-- PERSON 1 sample -->
 <table>
 <tr>
 <td width="140">
