@@ -125,27 +125,6 @@ Current Student Directory
 </tr>
 </table>
 
-<hr>
-
-
-<table>
-<tr>
-<td width="140">
-<img src="/assets/students/others/SHANKHA SUBHRA SARKAR.jpg" alt="SHANKHA SUBHRA SARKAR" width="120">
-</td>
-<td>
-
-<strong>SHANKHA SUBHRA SARKAR</strong><br>
-<strong>M.Tech/PhD Advisor:</strong> Prof Arpita Sinha<br>
-<strong>M.Tech Thesis Topic:</strong> Trajectory planning for self driving cars<br>
-<strong>Interests:</strong> Drawing, and watching sports<br>
-<strong>Domain:</strong> Model predictive control design<br>
-<strong>Contact:</strong>
-<a href="mailto:22d1171@iitb.ac.in">Email</a>
-
-</td>
-</tr>
-</table>
 
 <hr>
 
