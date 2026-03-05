@@ -169,27 +169,6 @@ Current Student Directory
 </tr>
 </table>
 
-<hr>
-
-
-<table>
-<tr>
-<td width="140">
-<img src="/assets/students/24/Kadapalla Nithin Kumar.jpg" alt="Kadapalla Nithin Kumar" width="120">
-</td>
-<td>
-
-<strong>Kadapalla Nithin Kumar</strong><br>
-<strong>M.Tech/PhD Advisor:</strong> Prof. Leena Vachhani<br>
-<strong>M.Tech Thesis Topic:</strong> nan<br>
-<strong>Interests:</strong> nan<br>
-<strong>Domain:</strong> nan<br>
-<strong>Contact:</strong>
-<a href="mailto:nithinkumar@iitb.ac.in">Email</a>
-
-</td>
-</tr>
-</table>
 
 <hr>
 
