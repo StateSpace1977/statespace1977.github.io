@@ -67,7 +67,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/other/shreyasNB.jpg" alt="Shreyas N B" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1tFhTc6kFnnMfqKePwJvc0-5NhPgI5zvE" alt="Shreyas N B" width="120">
 </td>
 <td>
 
@@ -89,7 +89,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/other/vaibhavUpadhyay.jpg" alt="Vaibhav Upadhyay" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ny4sNRTfbhmC6OCxKYVGPvdj0A7G82MQ" alt="Vaibhav Upadhyay" width="120">
 </td>
 <td>
 
@@ -111,7 +111,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/other/arkadeepSaha.jpg" alt="Arkadeep Saha" width="120">
+<img src="https://drive.google.com/uc?export=view&id=18CdMJkU9EgF6CXHq72Jhl1FELtuIbwV5" alt="Arkadeep Saha" width="120">
 </td>
 <td>
 
@@ -129,12 +129,33 @@ Current Student Directory
 
 <hr>
 
+<!-- PERSON -->
+<table>
+<tr>
+<td width="140">
+<img src="https://drive.google.com/uc?export=view&id=1o0OKFP_DeX2TOHn_QvbUqk-lLp3Oi97n" alt="SHANKHA SUBHRA SARKAR" width="120">
+</td>
+<td>
+
+<strong>SHANKHA SUBHRA SARKAR</strong><br>
+<strong>M.Tech Advisor:</strong> Prof Arpita Sinha<br>
+<strong>M.Tech Thesis Topic:</strong> Trajectory planning for self driving cars<br>
+<strong>Interests:</strong> Drawing, and watching sports<br>
+<strong>Domain:</strong> Model predictive control design <br>
+<strong>Contact:</strong>
+<a href="mailto:22d1171@iitb.ac.in">Email</a>
+
+</td>
+</tr>
+</table>
+
+<hr>
 
 <!-- PERSON -->
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/rohitPatil.jpg" alt="Rohit Patil" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ZiRLzwprvSwGCpJmKk1RdJc2Z9v1f4LF" alt="Rohit Patil" width="120">
 </td>
 <td>
 
@@ -156,7 +177,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/kadapallaNithinKumar.jpg" alt="Kadapalla Nithin Kumar" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1PlYoCei5QUyZ0LBVTOvxIV5xqOEXp1ed" alt="Kadapalla Nithin Kumar" width="120">
 </td>
 <td>
 
@@ -178,7 +199,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/kadapallaNithinKumar.jpg" alt="Kadapalla Nithin Kumar " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1wTezCK9Qt_HuRq1rJuJxOnGpihpXmyKr" alt="Kadapalla Nithin Kumar " width="120">
 </td>
 <td>
 
@@ -200,7 +221,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/prabhatPatel.jpg" alt="Prabhat Patel " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1AuInxDH1qoEVkC1w45nqhh6mLE4C_ZJy" alt="Prabhat Patel " width="120">
 </td>
 <td>
 
@@ -222,7 +243,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/vinayakBhardwaj.jpg" alt="vinayak bhardwaj" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1l3CS_k7wtvSr6mIgxj6B-UqpTNBpPFLr" alt="vinayak bhardwaj" width="120">
 </td>
 <td>
 
@@ -244,7 +265,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/anujYadav.jpg" alt="Anuj Yadav" width="120">
+<img src="https://drive.google.com/uc?export=view&id=13tfUiaaX3aohDOeDpmvU7H96iiCChkQ7" alt="Anuj Yadav" width="120">
 </td>
 <td>
 
@@ -266,7 +287,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/prashikPatil.jpg" alt="Prashik Patil" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1jYq3BrDedO6uzSJFBhc1qhb5Hy9aWalN" alt="Prashik Patil" width="120">
 </td>
 <td>
 
@@ -288,7 +309,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/anupam.jpg" alt="Anupam" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1bLoglvIP_5Ytq59YGsD4DEI2Pt8j5H4p" alt="Anupam" width="120">
 </td>
 <td>
 
@@ -310,7 +331,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/carlynMedona.jpg" alt="Carlyn Medona" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1pfhU1QAaOuZoAg4KodzjUu9cIbsfZ9ZZ" alt="Carlyn Medona" width="120">
 </td>
 <td>
 
@@ -332,7 +353,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/shailajaManchala.jpg" alt="Shailaja Manchala" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1jBhWCyXkh7Q_7aKJL0dEWGcSjPfJe6t-" alt="Shailaja Manchala" width="120">
 </td>
 <td>
 
@@ -354,7 +375,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/narendraMuley.jpg" alt="Narendra Muley" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1FaEtnIjnFdVJCpgkm4bX7xvfxF3XyJJu" alt="Narendra Muley" width="120">
 </td>
 <td>
 
@@ -376,7 +397,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/jatinkumar.jpg" alt="Jatinkumar " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1_t1w4O4Yhr1Z12woMNaVogGmZhiCkSYA" alt="Jatinkumar " width="120">
 </td>
 <td>
 
@@ -398,7 +419,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/parasPandey.jpg" alt="Paras Pandey" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1LRwORv23OFdZmK69bQCyp67AMhn53y8_" alt="Paras Pandey" width="120">
 </td>
 <td>
 
@@ -420,7 +441,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/chanakyaViharChalla.jpg" alt="Chanakya vihar Challa " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1MHnF3mE_JaElMboMJ5Mh4Kv-iVmralvT" alt="Chanakya vihar Challa " width="120">
 </td>
 <td>
 
@@ -442,7 +463,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/rohitKumar.jpg" alt="Rohit kumar " width="120">
+<img src="https://drive.google.com/uc?export=view&id=15QkkVl7_Kwo_DFkv9KG39gqEQe-hf_Zt" alt="Rohit kumar " width="120">
 </td>
 <td>
 
@@ -464,7 +485,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/24/chandraVikas.jpg" alt="Chandra Vikas" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1Ao3LdBwC_QLSTnqh7OE1mbxTWV6eoleQ" alt="Chandra Vikas" width="120">
 </td>
 <td>
 
@@ -486,7 +507,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/adarshKorde.jpg" alt="Adarsh Korde " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1lzJwWmkU3RTwdIMZRjkXMx3TSToZnqSF" alt="Adarsh Korde " width="120">
 </td>
 <td>
 
@@ -508,7 +529,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/shubhShah.jpg" alt="Shubh Shah" width="120">
+<img src="https://drive.google.com/uc?export=view&id=10zisvPDdaaVgkV26eANAMXtfV27Y9rS2" alt="Shubh Shah" width="120">
 </td>
 <td>
 
@@ -530,7 +551,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/sarmanSingh.jpg" alt="SARMAN SINGH" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ggjPDvO5ZbyvBibqhBnbBH4oTPPgAnmm" alt="SARMAN SINGH" width="120">
 </td>
 <td>
 
@@ -552,7 +573,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/sohamBanerjee.jpg" alt="Soham Banerjee" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ruOakEHmZNqjL63CxSkp5078u3cSR_F5" alt="Soham Banerjee" width="120">
 </td>
 <td>
 
@@ -574,7 +595,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/rehanKhan.jpg" alt="Rehan Khan" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1xtn_id5WHvvorhqO03XzIkVIE4O169dm" alt="Rehan Khan" width="120">
 </td>
 <td>
 
@@ -596,7 +617,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/mdSaifAli.jpg" alt="Md Saif Ali" width="120">
+<img src="https://drive.google.com/uc?export=view&id=15WTXe3TVEzxsf-AhwUcXFUVskk3kSNf0" alt="Md Saif Ali" width="120">
 </td>
 <td>
 
@@ -618,7 +639,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/vinayBujja.jpg" alt="Vinay Bujja " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1oftTGx6UaYy11qgyBeM6yf0H03fSpqCs" alt="Vinay Bujja " width="120">
 </td>
 <td>
 
@@ -640,7 +661,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/tejashRaj.jpg" alt="Tejash Raj" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1Pa75phi0UvQiOYTGwXq5OETt8bhGvaTu" alt="Tejash Raj" width="120">
 </td>
 <td>
 
@@ -662,7 +683,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/pamanjiNagaraju.jpg" alt="Pamanji Nagaraju" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1jofVP1EEikGhp6Del2YkqfAeW1932iyY" alt="Pamanji Nagaraju" width="120">
 </td>
 <td>
 
@@ -684,7 +705,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/maddiliAkhil.jpg" alt="MADDILI AKHIL " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1sDIloj2qP9scj2GOf9OFKzxJlfij_nj_" alt="MADDILI AKHIL " width="120">
 </td>
 <td>
 
@@ -706,7 +727,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/arunodayaDevi.jpg" alt="Arunodaya devi" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ElI9aQAR_IjoNwniqxEnW3pZOUfwg4ZA" alt="Arunodaya devi" width="120">
 </td>
 <td>
 
@@ -728,7 +749,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/priyaBiswas.jpg" alt="PRIYA BISWAS " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1u-g_smZqbuROOEu2lGVeMh_QVB-Jb76R" alt="PRIYA BISWAS " width="120">
 </td>
 <td>
 
@@ -750,7 +771,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/rahulKumar.jpg" alt="Rahul Kumar" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1Y9mAZyYIirNy1KxcG9U7gzhrUSvlNW6N" alt="Rahul Kumar" width="120">
 </td>
 <td>
 
@@ -772,7 +793,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/lohithNaikR.jpg" alt="LOHITH NAIK R" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1WtTSIStBGz4RcdLr40Ma4wr-My8XRQTF" alt="LOHITH NAIK R" width="120">
 </td>
 <td>
 
@@ -794,7 +815,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/arunPMadhu.jpg" alt="Arun P Madhu" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1ZfG2sdN_yFPFHmHfw3Z2vQPOCEU--zuB" alt="Arun P Madhu" width="120">
 </td>
 <td>
 
@@ -816,7 +837,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/allanJoseph.jpg" alt="Allan Joseph" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1BBiGPjJm4k7DzALjhMdjLqReo_DjoPYo" alt="Allan Joseph" width="120">
 </td>
 <td>
 
@@ -838,7 +859,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/amit.jpg" alt="Amit" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1oPmRNE3M2jwSeY5hkGYWQNpJU8SpEHlw" alt="Amit" width="120">
 </td>
 <td>
 
@@ -860,7 +881,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/ajayJ.jpg" alt="Ajay J" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1BMK5PlL1alux2U1IbEuKoi0MmIdNCQmh" alt="Ajay J" width="120">
 </td>
 <td>
 
@@ -882,7 +903,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/bharatKandpal.jpg" alt="Bharat Kandpal" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1PX10TpfhFwC5JXGwX3PnJR8l9O3F-uFl" alt="Bharat Kandpal" width="120">
 </td>
 <td>
 
@@ -904,7 +925,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/mandarMarutiJondhale.jpg" alt="Mandar Maruti Jondhale " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1dOc1-DKbCG60Er2R2qYIKW0ypD5O0V3C" alt="Mandar Maruti Jondhale " width="120">
 </td>
 <td>
 
@@ -926,7 +947,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/rakeshKrushnaJoshi.jpg" alt="Rakesh Krushna Joshi" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1iUUshgsVTjaIMfXOWFTRhmII3UNHHqEG" alt="Rakesh Krushna Joshi" width="120">
 </td>
 <td>
 
@@ -948,7 +969,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/aviChourasiya.jpg" alt="Avi chourasiya " width="120">
+<img src="https://drive.google.com/uc?export=view&id=121dOm9JNrznjXyUX3cZkyweoVuFS3WAW" alt="Avi chourasiya " width="120">
 </td>
 <td>
 
@@ -970,7 +991,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/mihirKalal.jpg" alt="Mihir Kalal" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1FkRK5zkBUDPlkys2NxSloxdn4NbpBjMM" alt="Mihir Kalal" width="120">
 </td>
 <td>
 
@@ -992,7 +1013,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/ayushVats.jpg" alt="Ayush Vats" width="120">
+<img src="https://drive.google.com/uc?export=view&id=1xXEYsSd4I9TvyHJjTontiaEJcm65QUhq" alt="Ayush Vats" width="120">
 </td>
 <td>
 
@@ -1014,7 +1035,7 @@ Current Student Directory
 <table>
 <tr>
 <td width="140">
-<img src="/assets/students/25/saiTejaLodagala.jpg" alt="Sai Teja Lodagala " width="120">
+<img src="https://drive.google.com/uc?export=view&id=1-28wTnmnFQrF6wKG3ZYQgDpjSpAga29G" alt="Sai Teja Lodagala " width="120">
 </td>
 <td>
 
