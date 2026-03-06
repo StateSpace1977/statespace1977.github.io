@@ -1,3 +1,14 @@
+
+---
+title: Mumbai Marathon Journey 
+author: Rohit Patil
+date: 2026-01-03 16:01:22 +0800
+categories: [Sports]
+tags: [Marathon]
+render_with_liquid: false
+---
+
+
 **From 500m to 42.195km** 
 
 **My Mumbai Marathon Journey** 
