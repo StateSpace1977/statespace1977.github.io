@@ -1,8 +1,6 @@
-
 ---
-title: Mumbai Marathon Journey 
-author: Rohit Patil
-date: 2026-01-03 16:01:22 +0800
+title: Mumbai Marathon ft.Rohit
+date: 2026-03-03 12:51:31 +0800
 categories: [Sports]
 tags: [Marathon]
 render_with_liquid: false
