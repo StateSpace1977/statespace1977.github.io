@@ -44,11 +44,13 @@ Got something helpful (or chaotic but useful)? Contribute here 👇
 
 For updates, fun, and occasional academic chaos, follow our Instagram:
 
-<p align="center">
+
+<p align="left">
   <img src="/assets/loosecontrol.png" 
        alt="Loose Control On Instagram" 
        width="250">
 </p>
+
 
 👉 [loosecontrol1997 ](https://www.instagram.com/loosecontrol1977?igsh=dHVsbGpxdjc2bDl3)
 
