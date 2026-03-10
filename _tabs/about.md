@@ -44,7 +44,13 @@ Got something helpful (or chaotic but useful)? Contribute here 👇
 
 For updates, fun, and occasional academic chaos, follow our Instagram:
 
-👉 [loosecontrol1997](https://www.instagram.com/loosecontrol1977?igsh=dHVsbGpxdjc2bDl3)
+<p align="center">
+  <img src="https://github.com/StateSpace1977/statespace1977.github.io/blob/ae53d9bcd5fc40fb858cf8740393f48830fb4905/assets/loosecontrol.png" 
+       alt="Loose Control On Instagram" 
+       width="250">
+</p>
+
+👉 [loosecontrol1997 ](https://www.instagram.com/loosecontrol1977?igsh=dHVsbGpxdjc2bDl3)
 
 Expect **resources, updates, and the kind of posts that make you say:**  
 *"I should probably study… but one more reel."* 😄
