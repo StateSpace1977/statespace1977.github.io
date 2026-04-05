@@ -34,7 +34,7 @@ Software
 Software Developer
 
 ## Compensation Details
-17lpa
+
 
 ## Job Description
 
